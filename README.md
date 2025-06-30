@@ -14,7 +14,7 @@ This donation website will bridge the gap between these needy people and donors.
 To run locally, do the usual:
 1. Clone the repository::
    ```
-   git clone https://github.com/MandeepSingh04/Joy-of-Giving
+   git clone https://github.com/hardeep04/Joy-of-Giving
    ```
 2. Move inside the folder
    ```
