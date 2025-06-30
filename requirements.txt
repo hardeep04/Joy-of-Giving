@@ -1,0 +1,5 @@
+﻿Django==3.2
+django-allauth==0.44.0
+django-autoslug==1.9.8
+django-crispy-forms==1.11.2
+Pillow
